@@ -1,0 +1,7 @@
+- create components:
+    app container
+        - will display random assortment of cards based on values within range
+        (need to use APi where data can be called based on range of numbers)
+        - stores clicked card from each round, if already clicked, reset score
+    cards component
+        - calls API to populate card with image/description based on assigned ID/number
